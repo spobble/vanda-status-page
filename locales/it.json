@@ -1,0 +1,11 @@
+{
+  "title": "Vanda | Status Page",
+  "description": "Welcome to Vanda's home for real-time and historical data on system performance.",
+  "systems": {
+    "items": {
+      "bot": {
+        "title": "Telegram Bot"
+      }
+    }
+  }
+}
